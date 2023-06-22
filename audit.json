@@ -1,0 +1,36 @@
+{
+    "keepSettings": {
+        "type": 2,
+        "amount": 10
+    },
+    "auditFilename": "audit.json",
+    "hashType": "md5",
+    "extension": "",
+    "files": [
+        {
+            "date": 1687229970150,
+            "name": "C:\\Users\\irire\\Documents\\ET2\\node-js-starter\\logs\\access.2023-06-20.log",
+            "hash": "71b2a552f1289d9c8d7aeebc328cf495"
+        },
+        {
+            "date": 1687248666246,
+            "name": "C:\\Users\\irire\\Documents\\ET2\\nodejs-lab\\logs\\access.2023-06-20.log",
+            "hash": "7e6faa3068910a6da2514fa644ac2146"
+        },
+        {
+            "date": 1687308004671,
+            "name": "C:\\Users\\irire\\Documents\\ET2\\nodejs-lab\\logs\\access.2023-06-21.log",
+            "hash": "b0241f93b798230bba95fbb5f4917485"
+        },
+        {
+            "date": 1687338418235,
+            "name": "C:\\Users\\irire\\Documents\\ET2\\jwt-lab\\logs\\access.2023-06-21.log",
+            "hash": "8715c7f9e9920f8f5a1e96ad2933eff0"
+        },
+        {
+            "date": 1687393195323,
+            "name": "C:\\Users\\irire\\Documents\\ET2\\jwt-lab\\logs\\access.2023-06-22.log",
+            "hash": "6f05eda4e7044670d37ece45ec273a19"
+        }
+    ]
+}
